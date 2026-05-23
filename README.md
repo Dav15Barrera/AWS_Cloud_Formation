@@ -2,9 +2,7 @@
 
 **Curso:** Análisis y Diseño de Arquitectura de Sistemas  
 **Estudiante:** David Enrique Lux Barrera  
-**Carnet:** 9990-21300  
-**Año:** 2026  
-
+**Carnet:** 9990-21300 
 ---
 
 # Introducción
